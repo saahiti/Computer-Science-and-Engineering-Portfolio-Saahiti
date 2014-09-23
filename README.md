@@ -4,7 +4,7 @@ Computer-Science-and-Engineering-Portfolio
 A collection of projects and source codes related to programming and engineering while in high school:
 
 Programming projects include Chess in Java, Mastermind in Visual Basic (includes an executable), and a 
-Calculator created in Python (with a presentation describing its features). These projects were done in
+Calculator created in Python (check out the presentation describing its features). These projects were done in
 collaboration with a partner. These programs include basic concepts such as GUI, 2D arrays, arraylists, 
 nested loops, methods etc. and are significantly based on OOP design.
 
